@@ -69,14 +69,15 @@ nav a{
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: center;
-    text-decoration: none;
 }
 
 .text-box h1{
     font-size: 62px;
+    text-decoration: none;
 }
 
 .text-box p{
+    text-decoration: none;
     margin: 10px 0 40px;
     font-size: 14px;
     color: #fff;
